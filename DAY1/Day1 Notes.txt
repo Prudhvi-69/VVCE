@@ -1,0 +1,287 @@
+What's the name of the person at 1-4-1
+
+
+
+
+
+VS Code, C compiler, (GitHub Repo)
+
+to check if C compiler is available : 
+
+gcc --version
+GitHub Repo for daily content access
+
+
+https://github.com/Prudhvi-69/VVCE
+
+
+
+
+
+I want to know the rules of any programming language naming sematics...??
+
+Can anyone answer...............?
+
+
+
+
+We take number people we need to evaluate : 6
+
+CGPA/Marks for each person as input : 20 97 86 33 18 100
+
+
+For any variable :
+
+If you mention, & symbol, it is going to access address of that variable.
+
+When you dont mention any & symbol and access the variable directly, it will access the value inside it.
+
+
+
+
+
+1 & 5
+
+20 | 44
+
+12 && 90
+
+7 || 23
+
+10 && -10 
+
+10 || -10 
+
+
+
+break time is : 10.30 to 11.00
+
+we have 3 more minutes 
+
+
+
+
+A company wants to automate its employee attendance and salary calculation system using C programming. 
+
+The company follows these rules:  
+
+1. Input:														Output : 
+   - Employee Name  								 - Final Salary (after applying rules)  
+   - Employee ID  						 			- Attendance Bonus (if applicable)  
+   - Basic Salary  								     - Employee Performance Category  
+   - Total Days Worked (between 0 to 30)  
+
+1. An employee can work for a maximum of 30 days per month.
+2. The basic salary of an employee is fixed but varies from employee to employee.
+3. If an employee works for more than 25 days, they get a 25% bonus on their salary.
+4. If an employee works for less than 10 days, they get only half of their salary.
+5. The company wants to classify employees based on their working days:  
+   - Excellent (More than 25 days)  
+   - Good (Between 15 and 25 days)  
+   - Needs Improvement (Less than 15 days)  
+
+
+
+
+
+Requirements:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employee Salary Classification 
+
+Scenario:  
+A company wants to classify its employees' salaries based on their earnings. Given the salary of N employees, write a program to categorize them as:  
+- Low income: Salary < 30,000  
+- Middle income: Salary between 30,000 and 70,000  
+- High income: Salary > 70,000  
+
+Input Example: 
+
+Enter the number of employees: 5
+Enter salaries: 25000 45000 80000 32000 60000
+
+Output Example:
+Low Income: 1
+Middle Income: 3
+High Income: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loan Eligibility Checker
+
+A bank wants to automate loan approvals based on the following conditions:  
+- Minimum salary required: ₹30,000  
+- Minimum credit score: 750  
+- Minimum work experience: 2 years  
+
+Write a program to determine if a customer is eligible for a loan.
+
+Input Example:
+Enter Salary: 40000
+Enter Credit Score: 760
+Enter Experience (Years): 3
+
+Output Example:  
+Loan Approved
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity Bill Calculation
+  
+Scenario:  
+A power company charges customers based on their electricity consumption:  
+- First 100 units`: ₹2 per unit  
+- Next 100 units`: ₹3 per unit  
+- Beyond 200 units`: ₹5 per unit  
+
+Write a program that calculates the `total electricity bill` for `N` customers.
+
+Input Example:
+Enter units consumed: 250
+
+Output Example:
+Total Bill: ₹750
+
+
+
+
+
+
+
+
+
+
+
+Manufacturing Quality Control  
+
+Scenario:
+A manufacturing unit inspects product weights 
+before packaging. A product is accepted
+if its weight is `within the range of 950g to 1050g.  
+Write a program to process N product weights and display:  
+- Accepted Products Count  
+- Rejected Products Count  
+
+Input Example:
+Enter number of products: 5
+Enter weights (in grams): 970 890 1055 1000 1020
+
+Output Example:
+Accepted Products: 3
+Rejected Products: 2
+
+
+
+
+
+
+Toll Booth Collection System 
+
+Scenario:
+A highway toll booth records `vehicles` passing through and their payments:  
+- `Car`: ₹50  
+- `Truck`: ₹100  
+- `Bike`: ₹20  
+
+Write a program that `tracks the total revenue` collected for `N` vehicles.
+
+Input Example:`  
+Enter number of vehicles: 4
+Enter vehicle types: Car Truck Bike Car
+
+Output Example:
+Total Toll Collection: ₹220
+
+
+Banking System – ATM Withdrawal`  
+`Problem Statement:`  
+A bank wants to automate ATM withdrawals with the following conditions:  
+
+1. The account `must have sufficient balance` for withdrawal.  
+2. `Minimum balance required:` ₹5000.  
+3. If withdrawal amount is `not a multiple of 100`, reject the transaction.  
+4. If all conditions pass, `deduct the amount and display the remaining balance.`  
+
+Input:
+Enter Account Holder Name: Trupti Maam  
+Enter Account Balance: ₹80000  
+Enter Withdrawal Amount: ₹25000  
+
+Output:  
+Transaction Successful!  
+Remaining Balance: ₹55000 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+String functions : 
+
+strcmp() : it will compare if two strings are equal and returns 0 if they are equal.
+
+strcat() : it will append the 2nd string at the end of 1st string
+
+strcpy() : It will copy one string into another string (Full replacement of old one)
+
+strrev() : It will reverse the characters present in a string
+
+strlwr() : It will convert every character into lowercase
+
+strupr() : It will convert every character into uppercase
+
+strlen() : It will find the number of charcters present in the string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
